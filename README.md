@@ -19,3 +19,4 @@
 - [6. 再談資料結構](http://mirdex.github.io/Python_20260714/6.再談資料結構_Q.slides.html)
 - [7. 函數](http://mirdex.github.io/Python_20260714/7.%20函數_Q.slides.html)
 - [8. 類別](http://mirdex.github.io/Python_20260714/8.%20類別_Q.slides.html)
+- [9. 例外處理](http://mirdex.github.io/Python_20260714/9.%20例外處理.slides.html)
